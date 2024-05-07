@@ -1,3 +1,4 @@
+
 .header__bottom {
     background-color: red;
     color: white;
@@ -32,4 +33,26 @@
 #development img{
     width: 50%;
 }
+#intro img{
+    width: 50%;
+}
+/* DEVELOPMENT */
+#development h1{
+    color: white;
+    text-align: center;
+}
+#development ul li{
+    color: white;
+    font-size: 30px;
+}
 
+.btn {
+    border: 1px solid transparent;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+}
+.btn i{
+    color: black;
+}
